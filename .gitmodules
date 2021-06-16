@@ -1,0 +1,3 @@
+[submodule "datastore-viewer"]
+	path = datastore-viewer
+	url = git@github.com:cheungmk/datastore-viewer.git

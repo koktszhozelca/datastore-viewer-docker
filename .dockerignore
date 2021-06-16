@@ -1,2 +1,6 @@
 # Ignore everything
 *
+
+!/datastore-viewer/bin/
+!/datastore-viewer/datastore_viewer/
+!/datastore-viewer/requirements.txt
