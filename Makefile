@@ -1,5 +1,5 @@
-VERSION ?= 0.3.2
-DOCKER_PATH := cheungmk/datastore-viewer
+VERSION ?= latest
+DOCKER_PATH := zelcakoktszho/datastore-viewer
 
 .PHONY: login
 login:
