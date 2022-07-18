@@ -1,9 +1,9 @@
-VERSION ?= latest
+VERSION ?= 0.3.3
 DOCKER_PATH := zelcakoktszho/datastore-viewer
 
 .PHONY: login
 login:
-	docker login --username cheungmk
+	docker login --username zelcakoktszho
 
 .PHONY: build
 build:
